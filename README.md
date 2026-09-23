@@ -10,4 +10,4 @@ I build the integration layer between the tools small businesses already use —
 
 All three run locally with two commands and no credentials; all are tested and built in CI on every push.
 
-Portfolio: [godsmasher.github.io/my-portfolio](https://godsmasher.github.io/my-portfolio/) · Available for freelance integration and automation work, remote, EN/DE.
+Portfolio: [godsmasher.github.io/my-portfolio](https://godsmasher.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/sarah-vogel-39b95a352/) · Available for freelance integration and automation work, remote, EN/DE.
