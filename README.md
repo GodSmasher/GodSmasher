@@ -33,6 +33,6 @@ Plus 5 more under review covering MCP shared-story resolution, display_chart/sto
 
 ### Available
 
-**Freelance integration and automation work from January 2026**, remote, EN/DE.
+**Open to AI/platform engineering roles and freelance integration work from January 2026**, remote, EN/DE.
 
 :email: vogels671@gmail.com · [LinkedIn](https://www.linkedin.com/in/sarah-vogel-39b95a352/) · [Portfolio](https://godsmasher.github.io/my-portfolio/)
